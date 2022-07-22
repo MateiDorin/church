@@ -1,0 +1,30 @@
+
+.move {
+    margin-right: 4rem;
+}
+
+.title {
+    margin-top: 25rem;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .phone-background {
+        background-image: url('../images/imparati.jpg');
+    }
+    .title {
+        margin-top: 10rem;
+        margin-bottom: 5rem;
+    }
+    .address {
+        color: white;
+        font-weight: bold;
+    }
+
+    .address:hover {
+        cursor: pointer;
+        color: black;
+        background-color: white;
+    }
+  }
