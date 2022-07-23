@@ -27,6 +27,32 @@
     text-justify: inter-word;
 }
 
+.btn1 {
+    width: 25%;
+    margin: 0.5rem 0.5rem;
+    padding: 0;
+}
+.btn2 {
+    text-align: center;
+}
+
+.sinaxar-height {
+    height: 17rem;
+}
+
+.move-sinaxar {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.btn1 {
+    width: 15%;
+    margin: 0.5rem 0.2rem;
+    padding: 0;
+}
+.btn2 {
+    text-align: center;
+}
 
 
 
@@ -51,5 +77,21 @@
     .event-title {
         text-align: center;
         font-weight: bold;
+    }
+    .sinaxar {
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 2rem;
+    }
+    .sinaxar-height {
+        height: 20rem;
+    }
+    .btn1 {
+        width: 25%;
+        margin: 0.5rem 0.5rem;
+        padding: 0;
+    }
+    .btn2 {
+        text-align: center;
     }
   }
