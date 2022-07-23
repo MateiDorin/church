@@ -10,6 +10,12 @@
 .event-title {
     text-align: center;
     font-weight: bold;
+    color: black;
+    transition: all;
+}
+
+.event-title:hover {
+    transform: scale(1.2);
 }
 
 .size {
