@@ -12,6 +12,11 @@
     font-weight: bold;
 }
 
+.size {
+    font-size: 130%;
+}
+
+
 
 
 @media only screen and (max-width: 600px) {
