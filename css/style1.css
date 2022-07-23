@@ -16,6 +16,11 @@
     font-size: 130%;
 }
 
+.justify-me {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
 
 
 
