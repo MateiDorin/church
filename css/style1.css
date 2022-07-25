@@ -38,7 +38,7 @@
 }
 
 .sinaxar-height {
-    height: 20rem;
+    height: 25rem;
 }
 
 .move-sinaxar {
@@ -58,6 +58,11 @@
 
 .sinaxar {
     margin-top: 0rem;
+    text-align: center;
+}
+
+.top-space {
+    margin-top: 2rem;
 }
 
 
@@ -88,9 +93,11 @@
         display: flex;
         flex-wrap: wrap;
         margin-left: 2rem;
+
+        
     }
     .sinaxar-height {
-        height: 20rem;
+        height: 25rem;
     }
     .btn1 {
         width: 25%;
